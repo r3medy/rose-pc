@@ -5,6 +5,8 @@
 // TODO: remove "Memory", sort by cl, sort by mhz
 // TODO: remove "Motherboard", remove size, remove socket
 // TODO: remove "Power Supply", remove size, sort by modular type
+// TODO: fill data gaps
+// TODO: move data from JSON to SQL
 
 //  "up", "left", "right", "down"
 
